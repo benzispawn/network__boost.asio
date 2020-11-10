@@ -1,0 +1,1 @@
+g++ end_point_simple.cpp -o end_point_simple -L /usr/lib/ -lboost_system -lboost_thread -lpthread
